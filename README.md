@@ -1,4 +1,4 @@
-# 👋 Hola
+# Hola
 
 Bienvenido a mi perfil de GitHub. Soy desarrollador con interés en la informática, el software libre y los proyectos que resuelven problemas reales.
 
@@ -9,9 +9,5 @@ Bienvenido a mi perfil de GitHub. Soy desarrollador con interés en la informát
 - Automatización, scripts, terminal
 - Proyectos personales y experimentos
 
-## 📌 Repositorios destacados
-
-
-## 📫 Contacto
 
 
